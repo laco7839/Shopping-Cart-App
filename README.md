@@ -6,3 +6,11 @@ For this assignment, I created two Figma app screens to show the shopping experi
 Anyone who is looking to see how a shopping cart works.
 # Learnings
 I had no idea how much detail goes into a shopping cart page. It was fun to learn how to create a counter on Figma and see it change numbers. It was a challenge at first to learn how, but after watching a video, I figured out how to do it. I think the counter overall makes the prototype look and feel more realistic. 
+
+
+https://github.com/user-attachments/assets/4ec98721-ccb7-48cc-90b9-e76ed7ef28ff
+
+
+
+https://github.com/user-attachments/assets/9a9c716e-e1fc-49b0-b634-2542976e9d92
+
